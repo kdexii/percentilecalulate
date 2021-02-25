@@ -7,4 +7,4 @@ from your processor load
 - numpy
 - tqdm
 # Screenshots
-![alt tag](https://imgur.com/tx3TuFo "test")
+![alt text](image/example.png "GAGA")
